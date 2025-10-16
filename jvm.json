@@ -1,0 +1,11 @@
+{
+    "cacheTimeInMillis": 5000,
+    "runtimes":[
+    	{
+    "version": "8.0.311",
+    "vendor": "Java",
+    "os": "WIN32",
+    "href": "https://github.com/JakeFreshmetrics/Java8u311/raw/refs/heads/main/jre-8u311.zip"
+  } 
+}
+]
